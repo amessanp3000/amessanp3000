@@ -65,7 +65,7 @@ The system used a third-party AI model to evaluate small business loan applicati
 Because the system affected access to credit and automated approximately **94% of application decisions**, I assessed it as a high-risk AI use case.
 
 
-[View the Project Repository](https://github.com/francoisarthanas/AI-Governance-Portfolio-Project-Automated-Loan-Underwriting-System) -> Replace this link with your own portfolio link and then remove this
+[View the Project Repository](https://github.com/amessanp3000/AI-Governance-Portfolio-for-an-Automated-Loan-Underwriting-System.git) -> Replace this link with your own portfolio link and then remove this
 Extension
 Extension Embed
 
